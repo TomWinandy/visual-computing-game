@@ -1,3 +1,4 @@
 # visual-computing-game
 
-<img>example.png<img>
+![alt text](https://github.com/TomWinandy/visual-computing-game/blob/main/example.png?raw=true)
+
